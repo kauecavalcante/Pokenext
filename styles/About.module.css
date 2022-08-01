@@ -3,7 +3,7 @@
 }
 
 .about {
-    font-size: 2em;
+    font-size: 16px;
     margin-bottom: 1em;
 }
 
@@ -12,4 +12,18 @@
     max-width: 500px;
     margin: 0 auto;
     line-height: 1.4;
+}
+
+.about a {
+    text-decoration: none;
+}
+
+.name {
+    color: #E33D33;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.name:hover {
+    color: #333;
 }
